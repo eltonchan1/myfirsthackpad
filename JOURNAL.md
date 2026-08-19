@@ -26,7 +26,7 @@ For the case, I followed the hackpad guide and then added my own things like the
 The case with both the top and bottom parts.
 
 
-# June 9th: Firmware, production,  shipping - 2.5hr
+# June 9th: Firmware, production,  shipping - 3.5hr
 
 I think I'm almost ready to ship, I used QMK firmware for the first time, and even though it probably took longer than it should've to make it work, at least it's finished.
 
@@ -34,4 +34,8 @@ Additionally, I added the production files using the Kicad Fabrication toolkit.
 
 I also finished the README containing a BOM.
 
-**Total time spent: 9.5h**
+I also spent some time in Onshape to make a preview of what the finished product might look like:
+![Image of finished product](assets/fulllayout.png)
+Even though it doesn't look the way I want it, I don't know how to change it, and I can always change it when I'm actually making it in real life. 
+
+**Total time spent: 10.5h**

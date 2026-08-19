@@ -1,6 +1,6 @@
 # myfirsthackpad
 
-image
+![Image of finished product](assets/fulllayout.png)
 
 myfirsthackpad is a space themed 3 key macropad with 5 SK6812 MINI-E LEDs.
 

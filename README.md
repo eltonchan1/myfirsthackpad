@@ -37,10 +37,10 @@ This hackpad uses [QMK](https://qmk.fm/) firmware for everything.
 ## BOM:
 Here should be everything you need to make this hackpad
 
-- 4x Cherry MX Switches
-- 4x DSA Keycaps
+- 3x Cherry MX Switches
+- 3x DSA Keycaps
 - 4x M3x5x4 Heatset inserts
-- 6x M3x16mm screws
+- 4x M3x16mm screws
 - 5x SK6812 MINI-E LEDs
 - 1x XIAO RP2040
 - 1x Case (2 printed parts)

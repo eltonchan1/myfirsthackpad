@@ -16,7 +16,7 @@ Everything fits together using 5 M3 Bolts and heatset inserts. 4 for the case, o
 
 It has 2 separate printed pieces: the base where the PCB sits, and the top cover. 
 
-image
+![Image of case](assets/case.png)
 
 This was made in Onshape.
 
@@ -24,10 +24,12 @@ This was made in Onshape.
 This is my PCB made in KiCad. The silkscreen was imported from my drawings on photoshop.
 
 Schematic:
-image
+![Image of schematic](assets/schematic.png)
 
 PCB:
-image
+![Image of PCB](assets/pcb.png)
+![Image of PCB](assets/pcb3dfront.png)
+![Image of PCB](assets/pcb3dback.png)
 
 ## Firmware Overview
 This hackpad uses [QMK](https://qmk.fm/) firmware for everything. 

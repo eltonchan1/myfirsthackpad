@@ -24,4 +24,4 @@ I think I'm almost ready to ship, I used QMK firmware for the first time, and ev
 ![Image of QMK](pictures/qmk.png)
 I also finished the README.
 
-**Total time spent: 6h**
+**Total time spent: 7h**
